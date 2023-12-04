@@ -1,0 +1,54 @@
+.body {
+  min-height: 2000px;
+}
+
+.banner {
+  background: url("image/banner-podcast.png");
+  background-size: cover;
+  padding-top: 35%;
+  padding-bottom: 20%;
+  color: #ffff;
+}
+
+.navbar {
+  background-color: #931e1e;
+}
+
+.navbar .navbar-brand {
+  color: aliceblue;
+}
+
+.navbar .nav-link {
+  color: white;
+}
+
+.slider {
+  background-color: #8c8989;
+}
+
+.audio-src {
+  background-color: #7d2121;
+}
+
+.audio-src h2 {
+  color: beige;
+}
+
+.row img {
+  justify-content: center;
+  width: 420px;
+  height: auto;
+  padding-bottom: 10px;
+}
+
+.end-text {
+  background-color: #323131;
+  text-align: center;
+  padding: 20px;
+}
+
+.end-text p {
+  font-size: 12px;
+  color: #e1dfdf;
+  text-transform: capitalize;
+}
